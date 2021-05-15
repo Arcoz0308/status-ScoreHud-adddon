@@ -1,3 +1,7 @@
+# ⚠️ ARCHIVED ⚠️
+
+this repo is no longer maintained
+
 # status-ScoreHud-adddon
 a status addon for ScoreHud(pmmp)
  
